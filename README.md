@@ -58,5 +58,31 @@ For any inquiries or professional opportunities, feel free to reach out through 
 - [LinkedIn](https://www.linkedin.com/in/ashley-greer-0408b4214/)
 - [GitHub](https://github.com/AshleyMGreerProjects)
 
+
 ## Credits
-This portfolio was built using the Massively template by HTML5 UP | @ajlkn. The original design, which is free for personal and commercial use under the CCA 3.0 license, has been customized and modified to showcase my personal projects and professional portfolio. While the structure and core design remain true to the original template, the content, text, and some code elements have been tailored to reflect my work and expertise.
+
+This portfolio has been developed using the **Massively** template by [HTML5 UP](https://html5up.net) | @ajlkn. The original design, made available under the terms of the Creative Commons Attribution 3.0 Unported (CCA 3.0) License, has been adapted and modified to meet the specific needs of this professional portfolio. All customizations, modifications, and additions to the original template, including content, text, and code elements, have been made to reflect my personal work and expertise.
+
+### Legal Notice
+
+THE WORK REFERRED TO HEREIN AS THE "MASSIVELY TEMPLATE" IS PROVIDED UNDER THE TERMS OF THE CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THIS TEMPLATE IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAWS. ANY USE OF THIS TEMPLATE OTHER THAN AS EXPRESSLY AUTHORIZED UNDER THIS LICENSE OR BY LAW IS STRICTLY PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE TEMPLATE PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE. IF THIS LICENSE IS DEEMED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HEREIN IN CONSIDERATION OF YOUR ACCEPTANCE OF ALL SUCH TERMS AND CONDITIONS.
+
+The original Massively template has been customized and modified to showcase my personal projects and professional portfolio. Although the underlying structure and core design elements remain consistent with the original template, all content, text, and code modifications are my own, and these adaptations have been implemented to reflect my individual work and professional expertise.
+
+### License Grant and Conditions
+
+In accordance with the Creative Commons Attribution 3.0 Unported License:
+
+1. **Adaptation and Reproduction**: You are granted a non-exclusive, worldwide, royalty-free license to reproduce and adapt the template as part of your own work, provided that any such adaptation is clearly labeled and distinct from the original work. For example, a modification might be noted as "The original template has been customized and adapted for personal use."
+
+2. **Distribution and Public Performance**: You may distribute and publicly perform the original template or any adaptations thereof, provided that you include a clear and prominent attribution to the original creator (HTML5 UP | @ajlkn) and attach a copy of the license or provide a URI link to it. Attribution should be placed in a prominent location, such as the footer of the site or a dedicated credits section.
+
+3. **Restrictions**: You are prohibited from imposing any additional terms on the adapted work that would restrict others from exercising the rights granted under this License. Additionally, you may not apply any technological protection measures to the template that restrict the rights of others to exercise their license rights.
+
+4. **Attribution Requirements**: When distributing or publicly performing the template, you must provide proper attribution to the original author. This includes the name of the original author, the title of the work (if supplied), and a URI or link to the original license. Attribution must be provided in a manner that is reasonable to the medium or means by which the work is distributed or performed.
+
+5. **Warranties and Disclaimers**: THE TEMPLATE IS PROVIDED "AS-IS" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY. THE LICENSOR DISCLAIMS ALL LIABILITY FOR ANY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE TEMPLATE, INCLUDING ANY ERRORS OR OMISSIONS IN THE TEMPLATE.
+
+This License is perpetual, subject to the terms and conditions set forth herein, and may only be terminated under the specific circumstances described within the License. The Licensor reserves the right to distribute the template under different terms or cease distribution altogether, but any such action will not affect the validity of the License or the rights previously granted to you under this License.
